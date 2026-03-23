@@ -12,12 +12,7 @@ Software Engineer and CS Master's student at **FER, University of Zagreb**. I've
 
 ## GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fbuljan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbuljan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fbuljan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="github-metrics.svg" alt="GitHub Metrics" />
 
 ## Featured Projects
 
