@@ -10,6 +10,29 @@ Software Engineer with 4+ years of experience and CS Master's student at **FER, 
 - Working across full-stack, AI, and computer vision
 - Active in hackathons and the developer community
 
+## GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fbuljan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbuljan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fbuljan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Erasmus Connect](https://erasmus-connect.vercel.app/) | Full-stack platform for Erasmus project discovery. Won Lumen Development 2023 & 3rd at Digital Innovation Incubator Croatia 2024 | Vue.js, Firebase |
+| [HACKL Zagreb](https://github.com/Zicer2024) | Cultural events discovery app for the city of Zagreb. 2nd place at HACKL Hackathon 2024 | Flutter, Node.js |
+| [Finance Friends](https://github.com/FinanceFriend) | AI-powered financial education platform with chat | Next.js, MUI |
+| [Skin Lesion Classification](https://github.com/neumre2025/projekt) | Deep learning classification of dermatoscopic images using ResNet, EfficientNet & ViT | Python, PyTorch |
+| [RTG Teeth Detection](https://github.com/fbuljan/RTG-image-teeth-detection) | Neural network for detection & segmentation of teeth on X-ray images | Python, PyTorch |
+| [Sikum](https://github.com/fbuljan/sheep-ai) | AI-powered personalized news aggregator with web scraping and OpenAI categorization | TypeScript, React, Express |
+| [Car Detection & Counter](https://github.com/fbuljan/car-detection-and-counter) | Comparing YOLOv8 and Fast R-CNN for car detection and counting on road images | Python, YOLO, OpenCV |
+| [PennyPlanner](https://github.com/fbuljan/PennyPlanner-frontend) | Full-stack personal finance app, Bachelor's thesis at FER | Vue 3, ASP.NET |
+| [Codeplay](https://github.com/fbuljan/codeplay) | Endless runner game for the Codeplay hackathon, played with custom Arduino joysticks | C#, Unity |
+
 ## Tech Stack
 
 **Languages**
@@ -46,29 +69,6 @@ Software Engineer with 4+ years of experience and CS Master's student at **FER, 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fbuljan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbuljan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fbuljan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Erasmus Connect](https://erasmus-connect.vercel.app/) | Full-stack platform for Erasmus project discovery. Won Lumen Development 2023 & 3rd at Digital Innovation Incubator Croatia 2024 | Vue.js, Firebase |
-| [HACKL Zagreb](https://github.com/Zicer2024) | Cultural events discovery app for the city of Zagreb. 2nd place at HACKL Hackathon 2024 | Flutter, Node.js |
-| [Finance Friends](https://github.com/FinanceFriend) | AI-powered financial education platform with chat | Next.js, MUI |
-| [Skin Lesion Classification](https://github.com/neumre2025/projekt) | Deep learning classification of dermatoscopic images using ResNet, EfficientNet & ViT | Python, PyTorch |
-| [RTG Teeth Detection](https://github.com/fbuljan/RTG-image-teeth-detection) | Neural network for detection & segmentation of teeth on X-ray images | Python, PyTorch |
-| [Sikum](https://github.com/fbuljan/sheep-ai) | AI-powered personalized news aggregator with web scraping and OpenAI categorization | TypeScript, React, Express |
-| [Car Detection & Counter](https://github.com/fbuljan/car-detection-and-counter) | Comparing YOLOv8 and Fast R-CNN for car detection and counting on road images | Python, YOLO, OpenCV |
-| [PennyPlanner](https://github.com/fbuljan/PennyPlanner-frontend) | Full-stack personal finance app, Bachelor's thesis at FER | Vue 3, ASP.NET |
-| [Codeplay](https://github.com/fbuljan/codeplay) | Endless runner game for the Codeplay hackathon, played with custom Arduino joysticks | C#, Unity |
 
 ## Connect
 
