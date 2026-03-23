@@ -4,7 +4,7 @@
 
 ## About Me
 
-Software Engineer with 4+ years of experience and CS Master's student at **FER, University of Zagreb**. I've worked across game development, fintech, and mobile - shipping products end-to-end from architecture to production. Rector's Award recipient and active member of EESTEC LC Zagreb.
+Software Engineer and CS Master's student at **FER, University of Zagreb**. I've worked across game development, fintech, and mobile - shipping products end-to-end from architecture to production. Rector's Award recipient and active member of EESTEC LC Zagreb.
 
 - Based in Zagreb, Croatia
 - Working across full-stack, AI, and computer vision
