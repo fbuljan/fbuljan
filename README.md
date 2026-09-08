@@ -22,7 +22,7 @@ Software Engineer and CS Master's student at **FER, University of Zagreb**. I've
 | [HACKL Zagreb](https://github.com/Zicer2024) | Cultural events discovery app for the city of Zagreb. 2nd place at HACKL Hackathon 2024 | Flutter, Node.js |
 | [Finance Friends](https://github.com/FinanceFriend) | AI-powered financial education platform with chat | Next.js, MUI |
 | [Skin Lesion Classification](https://github.com/neumre2025/projekt) | Deep learning classification of dermatoscopic images using ResNet, EfficientNet & ViT | Python, PyTorch |
-| [RTG Teeth Detection](https://github.com/fbuljan/RTG-image-teeth-detection) | Neural network for detection & segmentation of teeth on X-ray images | Python, PyTorch |
+| [Dental X-Ray Person Identification](https://github.com/fbuljan/RTG-image-teeth-detection) | Person identification from panoramic dental X-rays via per-tooth metric-learning embeddings and FAISS retrieval over a 1,178-person registry. Master's thesis at FER | Python, PyTorch, YOLO, FAISS |
 | [Sikum](https://github.com/fbuljan/sheep-ai) | AI-powered personalized news aggregator with web scraping and OpenAI categorization | TypeScript, React, Express |
 | [Car Detection & Counter](https://github.com/fbuljan/car-detection-and-counter) | Comparing YOLOv8 and Fast R-CNN for car detection and counting on road images | Python, YOLO, OpenCV |
 | [PennyPlanner](https://github.com/fbuljan/PennyPlanner-frontend) | Full-stack personal finance app, Bachelor's thesis at FER | Vue 3, ASP.NET |
@@ -43,6 +43,7 @@ Software Engineer and CS Master's student at **FER, University of Zagreb**. I've
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -57,6 +58,7 @@ Software Engineer and CS Master's student at **FER, University of Zagreb**. I've
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 **DevOps & Tools**
 
